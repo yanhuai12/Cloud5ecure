@@ -1,0 +1,1 @@
+Description: MythosCraft is a role-playing game (RPG) development toolkit that enables creators to build immersive fantasy worlds. With an extensive library of assets and an easy-to-use world-building interface, it's the perfect starting point for crafting your epic RPG narrative.
